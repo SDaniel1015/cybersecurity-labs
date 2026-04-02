@@ -1,26 +1,36 @@
 # Cybersecurity Labs
 
-This repository documents my hands-on journey into cybersecurity as I build real-world skills through labs, simulations, and structured training.
+This repository documents my transition into cybersecurity through hands-on labs, practical exercises, and real-world problem solving.
+
+With a background in engineering, I bring a systems-thinking approach to understanding how technologies work, fail, and can be secured.
+
+---
 
 ## 🎯 Objective
 
-Develop practical cybersecurity skills in:
+Transition into a cybersecurity role (SOC Analyst → Security Engineer → Cloud Security) by building strong technical fundamentals, hands-on experience, and real-world problem-solving ability.
 
-* Security Operations (SOC)
-* Network Security
-* Threat Detection & Analysis
-* Cloud & Identity Security (long-term focus)
+---
 
-This repo serves as a record of applied learning, not just theory.
+## 🧠 Engineering Background → Cybersecurity
+
+My engineering experience has developed skills that directly translate into cybersecurity:
+
+* Root cause analysis → Investigating security incidents and anomalies
+* Systems thinking → Understanding how networks, systems, and users interact
+* Troubleshooting under pressure → Diagnosing and resolving complex issues
+* Process optimization → Improving security workflows and efficiency
+
+This foundation allows me to approach cybersecurity with a focus on **understanding systems deeply, not just following tools or checklists**.
 
 ---
 
 ## 🧪 What I'm Doing
 
-* Completing labs on TryHackMe
+* Completing structured labs on TryHackMe
 * Building and working within a Kali Linux virtual environment
-* Practicing real-world security scenarios (logs, attacks, detection)
-* Documenting key concepts, tools, and problem-solving approaches
+* Practicing real-world security scenarios (log analysis, detection, system behavior)
+* Documenting tools, concepts, and troubleshooting processes
 
 ---
 
@@ -30,13 +40,13 @@ This repo serves as a record of applied learning, not just theory.
 * VirtualBox
 * TryHackMe
 * Linux CLI
-* (Upcoming) Splunk, AWS, Microsoft 365
+* (In Progress) Splunk, AWS, Microsoft 365
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 cybersecurity-labs/
 │
 ├── TryHackMe/
@@ -56,19 +66,20 @@ cybersecurity-labs/
 
 * Focus on understanding systems, not memorizing steps
 * Break and troubleshoot environments to build real problem-solving ability
-* Keep documentation concise and actionable
-* Prioritize consistency over perfection
+* Keep documentation concise and practical
+* Prioritize consistency and execution over perfection
 
 ---
 
 ## 🚀 Progress
 
 * ✅ Kali Linux lab environment built and configured
-* ✅ First TryHackMe labs completed
+* ✅ Initial TryHackMe labs completed
 * ⏳ Continuing daily lab practice and skill development
 
 ---
 
 ## 📌 Goal
 
-Transition into a cybersecurity role (SOC Analyst → Security Engineer → Cloud Security) and build high-income technical skills through consistent execution and hands-on experience.
+Build the skills and experience necessary to operate effectively in real-world security environments, with a long-term focus on cloud and security engineering.
+
