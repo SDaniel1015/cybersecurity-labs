@@ -1,14 +1,25 @@
-# Cybersecurity Labs
+# Cybersecurity Portfolio
 
-This repository documents my transition into cybersecurity through hands-on labs, practical exercises, and real-world problem solving.
+This repository documents my transition into cybersecurity through hands-on labs, real-world scenarios, and technical problem solving.
 
-With a background in engineering, I bring a systems-thinking approach to understanding how technologies work, fail, and can be secured.
+With a background in engineering, I approach cybersecurity through systems thinking—understanding how networks, systems, and users interact, fail, and can be secured.
 
 ---
 
 ## 🎯 Objective
 
-Transition into a cybersecurity role (SOC Analyst → Security Engineer → Cloud Security) by building strong technical fundamentals, hands-on experience, and real-world problem-solving ability.
+Transition into a cybersecurity role (SOC Analyst → Security Engineer → Cloud Security) by building strong technical fundamentals, hands-on experience, and real-world troubleshooting ability.
+
+---
+
+## 🔧 Networking & Infrastructure Labs
+
+- Cisco Packet Tracer network design and configuration  
+- IP addressing (static & DHCP)  
+- Router and default gateway configuration  
+- Wireless network setup (WPA2 security)  
+- Network segmentation (LAN/WLAN environments)  
+- Troubleshooting connectivity issues (ARP, Layer 2 vs Layer 3)  
 
 ---
 
@@ -21,74 +32,49 @@ My engineering experience has developed skills that directly translate into cybe
 * Troubleshooting under pressure → Diagnosing and resolving complex issues
 * Process optimization → Improving security workflows and efficiency
 
-This foundation allows me to approach cybersecurity with a focus on **understanding systems deeply, not just following tools or checklists**.
+This foundation allows me to approach cybersecurity with a focus on **understanding systems deeply, not just following tools or checklists* 
 
 ---
 
-## 🧪 What I'm Doing
+## 🧪 Current Focus
 
-* Completing structured labs on TryHackMe
-* Building and working within a Kali Linux virtual environment
-* Practicing real-world security scenarios (log analysis, detection, system behavior)
-* Documenting tools, concepts, and troubleshooting processes
+- Networking and Defense fundamentals (NetAcad + Packet Tracer)  
+- TryHackMe labs (hands-on security scenarios)  
+- Linux & command line proficiency  
+- Preparing for CompTIA Security+ (SY0-701)  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* Kali Linux
-* VirtualBox
-* TryHackMe
-* Linux CLI
-* (In Progress) Splunk, AWS, Microsoft 365
+- Cisco Packet Tracer  
+- Kali Linux  
+- VirtualBox  
+- Wireshark (in progress)  
+- Linux CLI  
+- TryHackMe  
 
 ---
 
 ## 📂 Repository Structure
 
-```text
-cybersecurity-labs/
-│
-├── TryHackMe/
-│   ├── RoomName/
-│   │   ├── notes.md
-│   │   └── screenshots/
-│
-├── Labs/
-│   ├── Kali-Setup.md
-│
-└── README.md
-```
-
----
-
-## 🧠 Learning Approach
-
-* Focus on understanding systems, not memorizing steps
-* Break and troubleshoot environments to build real problem-solving ability
-* Keep documentation concise and practical
-* Prioritize consistency and execution over perfection
-
----
-
-## 🚀 Progress
-
-* ✅ Kali Linux lab environment built and configured
-* ✅ Initial TryHackMe labs completed
-* ⏳ Continuing daily lab practice and skill development
+- networking/ → Packet Tracer labs and network builds
+- tryhackme/ → Security lab writeups
+- incident-response/ → Analysis and investigation labs
+- setup/ → Environment setup (Kali, tools)
 
 ---
 
 ## 📌 Recent Work
-- Built segmented network (LAN A / LAN B / WLAN)
-- Configured static + dynamic IP addressing
-- Implemented secure wireless network (WPA2)
-- Troubleshot ARP failure preventing server communication
-- Verified end-to-end connectivity across networks
+
+- Built segmented network (LAN A / LAN B / WLAN)  
+- Configured static and dynamic IP addressing  
+- Implemented WPA2-secured wireless network  
+- Diagnosed ARP failure preventing server communication  
+- Restored full network connectivity through troubleshooting  
 
 ---
 
-## 📌 Goal
+## 🚀 Goal
 
-Build the skills and experience necessary to operate effectively in real-world security environments, with a long-term focus on cloud and AI security engineering.
-
+Develop the technical depth and practical experience required to operate effectively in real-world security environments, with a long-term focus on cloud and security engineering.
