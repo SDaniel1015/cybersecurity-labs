@@ -79,7 +79,16 @@ cybersecurity-labs/
 
 ---
 
+## 📌 Recent Work
+- Built segmented network (LAN A / LAN B / WLAN)
+- Configured static + dynamic IP addressing
+- Implemented secure wireless network (WPA2)
+- Troubleshot ARP failure preventing server communication
+- Verified end-to-end connectivity across networks
+
+---
+
 ## 📌 Goal
 
-Build the skills and experience necessary to operate effectively in real-world security environments, with a long-term focus on cloud and security engineering.
+Build the skills and experience necessary to operate effectively in real-world security environments, with a long-term focus on cloud and AI security engineering.
 
