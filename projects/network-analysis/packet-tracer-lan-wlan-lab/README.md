@@ -32,6 +32,8 @@ The network included:
 - Custom SSID
 - WPA2-Personal security
 
+![Wireless Configuration](./screenshots/wireless-config.png)
+
 ---
 
 ## Key Configurations
@@ -59,6 +61,8 @@ Command: ping 10.10.10.100
 Result:
 - Request timed out
 
+![Failed Ping](./screenshots/ping-fail.png)
+
 ---
 
 ### Step 2: Gateway Test
@@ -67,6 +71,8 @@ Command: ping 10.10.10.254
 
 Result:
 - Successful reply
+
+![Gateway Ping Success](./screenshots/ping-success.png)
 
 Conclusion:
 - Local network and router were working
@@ -103,11 +109,15 @@ Server1 was not properly connected or configured.
 
 Command: ping 10.10.10.100
 
+![ARP Table](./screenshots/arp-table.png)
+
 Result:
 - Successful reply
 
 Web access:
 http://10.10.10.100
+
+![Final Connectivity](./screenshots/final-success.png)
 
 ---
 
@@ -127,13 +137,3 @@ http://10.10.10.100
 - Wireless security (WPA2)
 - Troubleshooting (Layer 2 / Layer 3)
 - Diagnostic tools (ping, arp)
-
----
-
-## Screenshots
-
-Add to /screenshots/:
-- topology.png
-- ping-success.png
-- arp-table.png
-- wireless-config.png
